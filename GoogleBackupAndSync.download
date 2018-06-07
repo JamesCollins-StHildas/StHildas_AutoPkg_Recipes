@@ -5,7 +5,7 @@
 	<key>Description</key>
 		<string>Download recipe for Google Backup and Sync. Finds and downloads a release of Google Backup and Sync</string>
 	<key>Identifier</key>
-		<string>com.github.sthildas.download.googlebackup</string>
+		<string>com.github.StHildas.download.googlebackup</string>
 	<key>Input</key>
 	<dict>
 			<key>NAME</key>
